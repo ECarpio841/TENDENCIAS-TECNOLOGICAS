@@ -1,4 +1,4 @@
-# Configuración de un Proyecto Angular en Linux (WSL)
+# Configuración de un Proyecto Angular en una máquina virtual con Kali Linux.
 
 ## 1. Título
 
