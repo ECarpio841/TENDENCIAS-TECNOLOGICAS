@@ -138,7 +138,3 @@ Estos resultados demuestran la comprensión de los conceptos básicos de contene
 
 - phpMyAdmin. (2024). *phpMyAdmin Documentation*.  
   https://docs.phpmyadmin.net/
-
-## Audio Explicativo:
-
-[Audio](https://drive.google.com/file/d/1taj7yOHwjbViMmuwewUfPtgNCENmlIr5/view?usp=sharing)
