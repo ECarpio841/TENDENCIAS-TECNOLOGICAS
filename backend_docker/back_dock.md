@@ -193,4 +193,4 @@ docker-compose up --build -d
 
 ## Audio Explicativo:
 
-[Audio explicativo práctica](https://drive.google.com/drive/folders/1imICrHrX6uN5gulivvInKXK2-iDdeJVr)
+[Audio explicativo práctica](https://drive.google.com/file/d/14-HW__Tumt3TLPkPxSYiL83X2Y4ITs9u/view?usp=sharing)
