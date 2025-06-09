@@ -200,4 +200,4 @@ docker compose up -d
 
 ## Audio Explicativo:
 
-[Audio explicativo práctica]()
+[Audio explicativo práctica](https://drive.google.com/file/d/14CKwy82NMftJq_AGGQFDlXu-Pibc6ykM/view?usp=sharing)
