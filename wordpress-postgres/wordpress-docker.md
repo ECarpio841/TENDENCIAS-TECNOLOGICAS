@@ -1,4 +1,4 @@
-# Práctica Contenerización Frontend React con Backend API usando Docker
+# Contenerización de WordPress con PostgreSQL y pgAdmin usando Docker Compose
 
 ## 1. Título  
 Contenerización de WordPress con PostgreSQL y pgAdmin usando Docker Compose
