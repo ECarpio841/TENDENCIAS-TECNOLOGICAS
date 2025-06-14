@@ -146,4 +146,4 @@ Contraseña: wppassword
 
 - pgAdmin Docker Hub. (s.f.). Recuperado de https://hub.docker.com/r/dpage/pgadmin4
 
-[Audio explicativo práctica]()
+[Audio explicativo práctica](https://drive.google.com/file/d/14uoNfRuRGH56X3IJcqCP8yIjMP8dEimd/view?usp=sharing)
